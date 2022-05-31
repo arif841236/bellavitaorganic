@@ -77,10 +77,11 @@ A glimpse of our website
 
 ## Authors
 
-  1. [Shashi Ranjan](https://github.com/Sranjan4321) 
+  1. [md. Arif](https://github.com/arif841236/arif841236)
   2. [Chhatrapal Ahirwar](https://github.com/Chhattoo25) 
-  3. [md. Arif](https://github.com/arif841236/arif841236) 
+  3. [Shashi Ranjan](https://github.com/Sranjan4321) 
   4. [chhavi srivastva](https://github.com/chhavi48)
   5. [Naquee Alam](https://github.com/Naquee)
 
 
+deployee link --> https://darling-malabi-cb1632.netlify.app
