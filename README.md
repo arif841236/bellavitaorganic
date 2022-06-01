@@ -1,3 +1,5 @@
+deployee link --> https://darling-malabi-cb1632.netlify.app
+
 # Bella-Vita-Organic
 masai CW project
 ![nord.png](https://cdn.shopify.com/s/files/1/0054/6665/2718/files/bvo-updated-logo-2.png?v=1624107079)
@@ -84,4 +86,4 @@ A glimpse of our website
   5. [Naquee Alam](https://github.com/Naquee)
 
 
-deployee link --> https://darling-malabi-cb1632.netlify.app
+
